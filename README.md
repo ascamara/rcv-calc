@@ -12,3 +12,5 @@ This program was created to assist in some work on electoral theory done under t
 A note: I wrote the programs with a normal distribution of mean and std dev = 1, but this is easily modifiable in the program.
 
 A note: I recommend that when entering ideological values for candidates you do so in increasing order (e.g. -5, -1.1, 3, 6.7). 
+
+Sources: https://www.science-emergence.com/Articles/How-to-integrate-a-normal-distribution-in-python-/
